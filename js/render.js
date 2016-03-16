@@ -26,7 +26,7 @@
      */
     function render(maze, path) {
         if (path && path.length) {
-            var point, 
+            var point,
                 i;
 
             for (i = 0; i < path.length; i++) {
@@ -40,9 +40,9 @@
         var containerElem = element('div', 'maze'),
             rowElem,
             type,
-            row, 
+            row,
             cell,
-            x, 
+            x,
             y;
 
         for (y = 0; y < maze.length; y++) {

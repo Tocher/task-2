@@ -1,0 +1,23 @@
+{
+  "name": "task-2",
+  "version": "1.0.0",
+  "description": "Лабиринт ========",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stobe1/task-2.git"
+  },
+  "author": "stobe1",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stobe1/task-2/issues"
+  },
+  "homepage": "https://github.com/stobe1/task-2#readme",
+  "dependencies": {
+    "jshint": "^2.9.1"
+  }
+}
